@@ -1,5 +1,5 @@
 # S01_T01
-IT_academy S01 T01: Jupyter Notebook i Markdown
+IT_academy S01 T01: Jupyter Notebook i Markdown/
 Jupyter Notebook is a web-based computing platform that allows developers to code, visualize, share and embed multimedia with explanatory text inside a single document. 
 It is a famous tool for showcasing your work because You can see both the code and the results in the same file.
 It is very famous among data scientists because you can get a better understanding of the data by executing each line of code separately. 
